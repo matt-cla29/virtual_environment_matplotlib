@@ -1,0 +1,51 @@
+Day,Product,Category,Price,Quantity
+Monday,Water,Drink,1.0,25
+Monday,Juice,Drink,1.5,15
+Monday,Hot chocolate,Drink,2.0,12
+Monday,Iced tea,Drink,1.8,10
+Monday,Crisps,Food,1.2,30
+Monday,Cookie,Food,1.0,20
+Monday,Toastie,Food,3.5,16
+Monday,Fruit pot,Food,2.2,8
+Monday,PC hour,Gaming,4.0,18
+Monday,Console hour,Gaming,3.0,14
+Tuesday,Water,Drink,1.0,28
+Tuesday,Juice,Drink,1.5,18
+Tuesday,Hot chocolate,Drink,2.0,14
+Tuesday,Iced tea,Drink,1.8,12
+Tuesday,Crisps,Food,1.2,35
+Tuesday,Cookie,Food,1.0,22
+Tuesday,Toastie,Food,3.5,18
+Tuesday,Fruit pot,Food,2.2,10
+Tuesday,PC hour,Gaming,4.0,20
+Tuesday,Console hour,Gaming,3.0,16
+Wednesday,Water,Drink,1.0,30
+Wednesday,Juice,Drink,1.5,16
+Wednesday,Hot chocolate,Drink,2.0,15
+Wednesday,Iced tea,Drink,1.8,14
+Wednesday,Crisps,Food,1.2,32
+Wednesday,Cookie,Food,1.0,25
+Wednesday,Toastie,Food,3.5,20
+Wednesday,Fruit pot,Food,2.2,9
+Wednesday,PC hour,Gaming,4.0,22
+Wednesday,Console hour,Gaming,3.0,18
+Thursday,Water,Drink,1.0,32
+Thursday,Juice,Drink,1.5,20
+Thursday,Hot chocolate,Drink,2.0,18
+Thursday,Iced tea,Drink,1.8,16
+Thursday,Crisps,Food,1.2,38
+Thursday,Cookie,Food,1.0,28
+Thursday,Toastie,Food,3.5,22
+Thursday,Fruit pot,Food,2.2,12
+Thursday,PC hour,Gaming,4.0,25
+Thursday,Console hour,Gaming,3.0,20
+Friday,Water,Drink,1.0,45
+Friday,Juice,Drink,1.5,25
+Friday,Hot chocolate,Drink,2.0,22
+Friday,Iced tea,Drink,1.8,24
+Friday,Crisps,Food,1.2,50
+Friday,Cookie,Food,1.0,35
+Friday,Toastie,Food,3.5,30
+Friday,Fruit pot,Food,2.2,15
+Friday,PC hour,Gaming,4.0,40
+Friday,Console hour,Gaming,3.0,32
